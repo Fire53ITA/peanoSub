@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Zen Dots';
+    src: url('./font/ZenDots/ZenDots-Regular.ttf') format('truetype');
+}
+
+#title {
+    font-family: 'Zen Dots';
+}
+
+#bg-title {
+    background-image: url(image/Firefly\ 20240212013619.png);
+    
+}
